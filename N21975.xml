@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:028961_0000_0FDDBD0BCA5F0780"/>
-            <pb facs="tcp:028961_0001_0FDDBD0D27341E18" rendition="simple:additions"/>
+            <pb facs="unknown:028961_0000_0FDDBD0BCA5F0780"/>
+            <pb facs="unknown:028961_0001_0FDDBD0D27341E18"
+                rendition="simple:additions"/>
             <p>THE MELANCHOLY END OF UNGRATEFUL CHILDREN.</p>
             <p>Exemplified in the dreadful fate of the Son and Daughter of a wealthy Farmer, who, after receiving and dividing the wealth of their Parents, refuſed them, in their old age, the ſhelter of their roof, or a morſel of bread. With an account of the won<g ref="char:EOLhyphen"/>derful ſcenes the Daughter beheld in her trance.</p>
             <p>Printed for the benefit of the riſing Generation, at the particular requeſt of all who were eye-witneſſes to the ſcene.</p>
@@ -133,7 +134,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:028961_0002_0FDDBD10F2B6F0D0"/>
+            <pb facs="unknown:028961_0002_0FDDBD10F2B6F0D0"/>
             <head>THE MELANCHOLY END OF UNGRATEFUL CHILDREN.</head>
             <lg>
                <l>YOU ſtubborn-hearted children hear,</l>
@@ -157,7 +158,7 @@
                <l>Her parents lik'd the offer well,</l>
                <l>As few in riches did excel.</l>
                <l>
-                  <pb n="3" facs="tcp:028961_0003_0FDDBD14ACF7E2F8"/>
+                  <pb n="3" facs="unknown:028961_0003_0FDDBD14ACF7E2F8"/>
 When he had gain'd the maiden's love,</l>
                <l>
                   <gap reason="illegible" resp="#UOM" extent="1 letter">
@@ -200,7 +201,7 @@ When he had gain'd the maiden's love,</l>
                <l>Naked, as riſing from their bed,</l>
                <l>Without their needed clothes they fled.</l>
                <l>
-                  <pb n="4" facs="tcp:028961_0004_0FDD5F291D10CFA8"/>
+                  <pb n="4" facs="unknown:028961_0004_0FDD5F291D10CFA8"/>
 They on their daughter then did wait,</l>
                <l>Told her of their unhappy fate,</l>
                <l>Saying, dear child what muſt we do,</l>
@@ -234,7 +235,7 @@ They on their daughter then did wait,</l>
                <l>Saying, dear child ſome pity ſhew,</l>
                <l>To thoſe who oft have cheriſh'd you.</l>
                <l>
-                  <pb n="5" facs="tcp:028961_0005_0FDDBD1AAEF54168"/>
+                  <pb n="5" facs="unknown:028961_0005_0FDDBD1AAEF54168"/>
 You've heard of our unhappy fate,</l>
                <l>How we have been diſtreſt of late,</l>
                <l>They wrung their trembling hands and ſaid,</l>
@@ -268,7 +269,7 @@ You've heard of our unhappy fate,</l>
                <l>Go tell them I will give them none,</l>
                <l>And from the gate bid them begone.</l>
                <l>
-                  <pb n="6" facs="tcp:028961_0006_0FDDBD1C282C2248"/>
+                  <pb n="6" facs="unknown:028961_0006_0FDDBD1C282C2248"/>
 The ſervant ſaid there's nothing here,</l>
                <l>And from the gate you muſt repair,</l>
                <l>They ſaid go back you damſel dear,</l>
@@ -302,7 +303,7 @@ The ſervant ſaid there's nothing here,</l>
                <l>His ſiſter heard it, and the fright</l>
                <l>Brought a hot fever on that night.</l>
                <l>
-                  <pb n="7" facs="tcp:028961_0007_0FDDBD1E0B41B2D8"/>
+                  <pb n="7" facs="unknown:028961_0007_0FDDBD1E0B41B2D8"/>
 Her ſenſes quickly fled away,</l>
                <l>Ten days in tort'ring pain ſhe lay,</l>
                <l>And then to death ſhe did reſign,</l>
@@ -336,7 +337,7 @@ Her ſenſes quickly fled away,</l>
                <l>O parent's dear, I then did ſay</l>
                <l>Take me to that bleſt place I pray.</l>
                <l>
-                  <pb n="8" facs="tcp:028961_0008_0FDDBD21813DF288"/>
+                  <pb n="8" facs="unknown:028961_0008_0FDDBD21813DF288"/>
 My mother ſaid I do not know</l>
                <l>Your <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
